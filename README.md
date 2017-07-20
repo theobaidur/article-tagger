@@ -1,1 +1,3 @@
-# article-tagger
+# Article Tagger
+
+App for validating articles.
